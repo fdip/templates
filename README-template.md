@@ -4,31 +4,80 @@
 
 One Paragraph of project description goes here
 
-###Technology stack
+### Technology stack
 
-###Architecture
+A list of the main technologies used in the project
 
-## How it works
+### Architecture
+
+An overview of the main architecture
+
 
 ## Getting Started
 
-### Prerequisites
+### Introducing to the project
 
-### Installing
+### System requirements
+
+### Build it from source
+
+### Running it locally
+
+### Running on other enviroments
+
+### Deploying it
 
 
-## Running the tests
+
+## Using the project
+
+### Dependency management
+
+### Structuring the code
+
+### Configuration
+
+### Modules
+
+
+## Features
+
+### Endpoints
+
+### Profiles
+
+### Logging
+
+### Security
+
+### Database
+
+### Testing
+
+### Monitoring
+
+### Auditing
 
 
 
-## Deployment
+## How to guides
+
+### How to run tests
+
+### How to load data for testing
+
+### How to test endpoints
+
+### How to build it from command line
+
+### How to build it from the IDE
 
 
-## Built With
+
+## Real world implementations examples
 
 
 ## Contributing
-
 
 ## Versioning
 
@@ -38,25 +87,17 @@ One Paragraph of project description goes here
 
 ## Acknowledgments
 
-## Code Style
-
 ## Getting Help
 
-## Build from source
-
-## Modules
-
 ## Reporting issues
-
-## Real world implementations examples
 
 ## Releases
 
 ## Development guideline
+### Code Style
 
 ## Further references
 
-## Toc
 
 
 
